@@ -7,6 +7,7 @@
 ## 1. Ikhtisar
 
 Anda bisa mendapatkan poin dengan menghosting node penuh Iron Fish. Untuk melakukannya, pastikan telemetri Anda diaktifkan, dan grafiti Anda disetel. Anda hanya akan diberi poin untuk menghosting satu node per grafiti.
+
 *12 jam waktu aktif terus menerus = 10 poin
 
 ## 2. Spesifiksi Minimal
