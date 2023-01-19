@@ -7,7 +7,6 @@
 ## 1. Ikhtisar
 
 Anda bisa mendapatkan poin dengan menghosting node penuh Iron Fish. Untuk melakukannya, pastikan telemetri Anda diaktifkan, dan grafiti Anda disetel. Anda hanya akan diberi poin untuk menghosting satu node per grafiti.
-
 *12 jam waktu aktif terus menerus = 10 poin
 
 ## 2. Spesifiksi Minimal
@@ -70,8 +69,8 @@ apt install -y nodejs
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-- Pilih Y (enter)
-- Pilih 1 (enter)
+- Pilih Y <enter>
+- Pilih 1 <enter>
 
 ```
 source $HOME/.cargo/env
@@ -96,4 +95,31 @@ yarn install
 ```
 ```
 cd ironfish-cli
+```
+```
+yarn start
+```
+
+## Pastikan Kalian Sudah Membuat Graffiti
+
+```
+yarn ironfish testnet
+```
+- Masukan nama Graffiti
+
+## Membuat screen baru
+
+```
+screen -R ironfish
+```
+
+## Menjalankan Ironfish
+```
+yarn start start
+```
+- Tekan CTRL+A+D untuk keluar dari screen (berjalan di belakang background)
+
+## Cek Status Ironfish
+```
+yarn ironfish status
 ```
