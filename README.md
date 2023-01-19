@@ -124,3 +124,4 @@ yarn start start
 ```
 yarn ironfish status
 ```
+- Kamu dapat mengecek Point kamu disini : https://testnet.ironfish.network/leaderboard
