@@ -10,6 +10,8 @@ Anda bisa mendapatkan poin dengan menghosting node penuh Iron Fish. Untuk melaku
 
 *12 jam waktu aktif terus menerus = 10 poin
 
+Daftar: https://testnet.ironfish.network/signup
+
 ## 2. Spesifiksi Minimal
 
 Berikut adalah persyaratan **minimum** untuk menjalankan node IRONFISH:
