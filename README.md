@@ -84,7 +84,7 @@ npm install -global yarn --force
 ```
 (OPTIONAL)
 ```
-npm audit fix (OPTIONAL)
+npm audit fix
 ```
 
 ## Clone Folder Ironfish
